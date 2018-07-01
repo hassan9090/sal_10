@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<flectra>
+<odoo>
     <data>
         <record id="salon_email_template_approved" model="mail.template">
             <field name="name">Salon e-mail template</field>
@@ -38,4 +38,4 @@
             </field>
        </record>
     </data>
-</flectra>
+</odoo>

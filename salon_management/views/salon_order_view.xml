@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<flectra>
+<odoo>
     <data>
         <record id="partner_salon_boolean" model="ir.ui.view">
           <field name="name">partner_salon_boolean.view</field>
@@ -218,4 +218,4 @@
         </record>
         <menuitem id="salon_order" parent="salon_management_salon" name="Salon Orders" action="salon_order_action"/>
     </data>
-</flectra>
+</odoo>

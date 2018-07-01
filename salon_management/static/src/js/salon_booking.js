@@ -1,4 +1,4 @@
-flectra.define('salon_management.website_salon_booking_system', function (require) {
+odoo.define('salon_management.website_salon_booking_system', function (require) {
 'use strict';
 var ajax = require('web.ajax');
 var base = require('web_editor.base');
@@ -71,4 +71,4 @@ $(document).on('click',"#check_button",function() {
        alert("Fill the Field")
        }
 });
-});                                
+});

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<flectra>
+<odoo>
     <data noupdate="1">
         <record model="salon.holiday" id="salon_holiday_01">
             <field name="name">Sunday</field>
@@ -24,4 +24,4 @@
             <field name="name">Saturday</field>
         </record>
     </data>
-</flectra>
+</odoo>
