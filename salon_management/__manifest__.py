@@ -41,6 +41,7 @@
              'views/salon_config.xml',
              'views/working_hours.xml',
              'security/ir.model.access.csv',
+             'views/booking_demo.xml',
              ],
     'demo': [
         'views/booking_demo.xml',
